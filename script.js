@@ -40,7 +40,7 @@ let ded = document.querySelector('.ded')
   // walter consquent
     
 left.addEventListener("click", function() {
-    text.innerHTML = "My name is Walter Hartwell White. I live at 308 Negra Arroyo Lane Albuquerque New Mexico 87104. This is my confession. Click the Meth or Jesse.";
+    text.innerHTML = "My name is Walter Hartwell White. I live at 308 Negra Arroyo Lane Albuquerque New Mexico 87104. This is my confession. Hover over the Meth or Click Jesse.";
     leftRight.style.display="none";
     left.style.display ="none";
     right.style.display ="none";
@@ -67,7 +67,7 @@ chicken.style.display="flex"
 });
 
 // walter right choice 1
-meth.addEventListener("click", function() {
+meth.addEventListener("mouseenter", function() {
     text.innerHTML = "This is a good batch, man.";
     leftRight.style.display="none";
     left.style.display ="none";
