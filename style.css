@@ -1,25 +1,68 @@
-@import url('https://fonts.googleapis.com/css2?family=Carrois+Gothic&display=swap');
-
-
-body{ background-image: url("tile.jpg");
-    background-repeat: repeat-y;
-    background-repeat: repeat-x;
-    font-family: "Carrois Gothic", sans-serif;
-    font-weight: 400;
-    font-style: normal;}
-
-.main{width:300px;margin:0 auto;
-background:#959595ff; padding:15px;}
-img{width:300px;
+img {
+    width: 300px;
 }
-p{
-color:#262626;
-background: #959595ff;
-padding:5px;
-font-size: .8em;}
 
-button{margin:5px;
-padding:25px;
-font-size: .8em;
-background:#fdfeee;
+body {
+    background:#080E4B
 }
+
+p {
+   color:#ffffff
+}
+
+.meth {
+width:50px
+}
+
+
+.jesse {
+    width:50px
+}
+
+.x{
+    width:50px
+}
+
+.van {
+width:100px
+}
+
+.chicken {
+    width:150px
+} 
+
+.flask {
+    width:80px
+}
+
+.help {
+    width:100px
+}
+
+.xa {
+    width:50px
+}
+
+.evil {
+    width:600px
+}
+
+.ded {
+    width:600px
+}
+a {
+    color: hotpink;
+  right:500px
+}
+
+.schraderbrau {
+    width:600px
+}
+
+.happy {
+    width:600px
+}
+
+p {
+    font-size: 30px
+}  
